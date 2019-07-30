@@ -1,7 +1,7 @@
 ### Sample demonstration of Neural Style Transfer (Using VGG19)
 ![examplestyletransfer](https://user-images.githubusercontent.com/51089715/62014529-ca280100-b1bf-11e9-973e-85ea5c2c9f2b.PNG)
 
-# Explaining content and style representation and losses of an image and the Loss function to minimize
+# Neural Style Transfer explained 
 
 ![style transfer_1](https://user-images.githubusercontent.com/51089715/62105102-14dc7280-b2bf-11e9-85c2-c65d9f871db2.jpg)
 
